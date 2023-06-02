@@ -1,3 +1,3 @@
 # GUI-login-panel
 
-<img src="Reactangle.png" alt="picture" />
+<img src="Rectangle.png" alt="picture" />
