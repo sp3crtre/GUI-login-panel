@@ -1,3 +1,3 @@
 # GUI-login-panel
 
-<img src="Rectangle.png" alt="picture" />
+<img src="Screenshot (199).png" alt="picture" />
